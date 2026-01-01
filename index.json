@@ -10,7 +10,7 @@
     "dateFormatLocale": "",
     "isNsfw": false,
     "hasCloudflare": false,
-    "sourceCodeUrl": "https://anymex.vercel.app/extensions/anime/ogladajanime_scraper.js",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/luxky666/extension/refs/heads/main/ogladajanimeanime_scraper.js",
     "apiUrl": "",
     "version": "0.0.1",
     "isManga": false,
